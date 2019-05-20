@@ -3,5 +3,7 @@
 
 oanw@protonmail.com
 
-----
-online ide: https://tool.lu/coderunner/
+- *mail*
+https://mail.protonmail.com
+- *IDE*
+https://tool.lu/coderunner/
