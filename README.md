@@ -8,9 +8,14 @@ oanw@protonmail.com
 https://mail.protonmail.com
 - **IDE**
 https://tool.lu/coderunner/
+- **edit**
+https://www.zybuluo.com/mdeditor
+- **type execise**
+https://www.typingclub.com
 
 # Bookmark
-- **leetcode** https://leetcode.com/problemset/all/
+- **leetcode** 
+https://leetcode.com/problemset/all/
 
 
 # OJ
