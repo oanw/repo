@@ -10,12 +10,16 @@ https://mail.protonmail.com
 https://tool.lu/coderunner/
 - **EDIT**
 https://www.zybuluo.com/
+- **type execise**
+https://www.typingclub.com
 
 # Book
 https://walkccc.github.io/CLRS/
 
+
 # Bookmark
-- **leetcode** https://leetcode.com/problemset/all/
+- **leetcode** 
+https://leetcode.com/problemset/all/
 
 
 # OJ
